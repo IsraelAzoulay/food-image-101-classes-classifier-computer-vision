@@ -1,5 +1,5 @@
 # Food Image 101 Classes Classifier - Computer Vision
-This repository contains a project focused on classifying images of 101 different food classes using deep learning and computer vision techniques. The project leverages transfer learning and fine-tuning with TensorFlow to achieve a high accuracy of **80%** on the full test set. The implementation is carried out on Google Colab for efficient computation and easy accessibility.
+This repository contains a project focused on classifying images of **101** different food classes using deep learning and computer vision techniques. The project leverages transfer learning and fine-tuning with TensorFlow to achieve a high accuracy of **80%** on the full test set. The implementation is carried out on Google Colab for efficient computation and easy accessibility.
 
 ## Key Features
 - **Data Source:** Preprocessed food image datasets derived from the 'Organizing_The_Food101_Dataset' notebook.
