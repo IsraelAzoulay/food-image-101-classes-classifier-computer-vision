@@ -15,7 +15,7 @@ This repository contains a project focused on classifying images of **101** diff
   - **Food Image 101 Classes Classifier - Computer Vision:** Notebook detailing the data loading and preprocessing, model training, evaluation, prediction, and results.
 - **Scripts:**
   - **helper_functions.py:** Contains utility functions needed for the project, located in the 'scripts' folder.
-- **Data:** Preprocessed datasets available through publicly accessible Google Drive links in the 'Food Image 101 Classes Classifier - Computer Vision' notebook.
+- **Data:** Preprocessed datasets available through publicly accessible Google Drive links in the 'Food Image 101 Classes Classifier - Computer Vision' notebook, along with datasets from TensorFlow Datasets (TFDS).
 
 ## Getting Started
 1. **Clone the repository:**
