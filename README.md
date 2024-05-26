@@ -6,7 +6,7 @@ This repository contains a project focused on classifying images of **101** diff
 - **Deep Learning Framework:** TensorFlow
 - **Model Type:** Deep Learning, Computer Vision, Transfer Learning Feature Extraction, and Transfer Learning Fine-Tuning with Data Augmentation
 - **Goal:** Classifying images into **101** different food classes, exceeding the baseline accuracy of 50.76% reported in the original Food101 paper using only **10%** of the training data, as well as the 77.4% accuracy benchmark established by the DeepFood paper using 100% of the training data
-- **Accuracy:** Achieves 80% accuracy on the full test set
+- **Accuracy:** Achieves **80%** accuracy on the full test set
 - **Environment:** Google Colab for development and execution
 
 ## Repository Contents
