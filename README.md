@@ -19,7 +19,7 @@ This repository contains a project focused on classifying images of **101** diff
 
 ## Getting Started
 1. **Clone the repository:**
-   !git clone 
+   !git clone https://github.com/IsraelAzoulay/food-image-101-classes-classifier-computer-vision.git
 2. **Open the provided Google Colab notebooks:**
 Navigate to the 'notebooks' folder and open the desired notebook in Google Colab.
 3. **Run the Notebooks:**
