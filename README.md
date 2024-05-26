@@ -26,3 +26,9 @@ Navigate to the 'notebooks' folder and open the desired notebook in Google Colab
 Follow the instructions in the notebooks to download the datasets, preprocess the data, train, evaluate and predict with the models.
 4. **Customize:**
 Feel free to modify the models and code for your experiments.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License.
